@@ -1,7 +1,24 @@
 
 
 //plak hier de haiku functions onder elkaar
-
+function Haiku1(){
+    console.log("haiku by:","Docent");
+    console.log("Panda in the mist");
+    console.log("Gently chewing on bamboo");
+    console.log("Perfect breakfast time");
+}
+function Haiku1(){
+    console.log("haiku by:","Docent");
+    console.log("Panda in the mist");
+    console.log("Gently chewing on bamboo");
+    console.log("Perfect breakfast time");
+}
+function Haiku1(){
+    console.log("haiku by:","Docent");
+    console.log("Panda in the mist");
+    console.log("Gently chewing on bamboo");
+    console.log("Perfect breakfast time");
+}
 
 
 
